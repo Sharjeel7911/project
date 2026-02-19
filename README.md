@@ -15,7 +15,7 @@ A collection of personal projects built across different languages and domains �
 |---------|----------|-------------|
 | [🏥 Medi Connect](./01-mediconnect) | C++ | A console-based hospital appointment booking system built in C++ |
 | [🚗 Car Rental](./02-car-rental-system) | C++ | A console-based car rental management system built in C++ |
-| [🛒 Online Shopping Cart(./03-online-shopping-cart| C++ | A console-based online shopping system built in C++ |
+| [🛒 Online Shopping Cart](./03-online-shopping-cart| C++ | A console-based online shopping system built in C++ |
 | [🏓 Pong Game](./04-pong-game/) | C++ | Classic Pong with CPU AI, score tracking, and serve mechanic built with raylib |
 | [♟️ Chess Game](./05-chess/) | C++ | A fully functional console-based Chess game built in C++ |
 
