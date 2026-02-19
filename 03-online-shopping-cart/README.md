@@ -21,8 +21,8 @@ A terminal-based shopping cart system with two separate portals — Admin and Us
 **Team Members:**
 | Name | ID |
 |------|----|
-| Sharjeel | 0506 |
-| Moeez | 0541 |
+| Sharjeel | L1F24BSCS0506 |
+| Moeez | L1F24BSCS0541 |
 
 ---
 
