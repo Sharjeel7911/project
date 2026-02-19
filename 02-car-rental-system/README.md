@@ -21,10 +21,10 @@ A terminal-based car rental system that lets users manage a fleet of cars, regis
 **Team Members:**
 | Name | ID |
 |------|----|
-| Faizan | 0485 |
-| Sharjeel | 0506 |
-| Sufyan | 0533 |
-| Moeez | 0541 |
+| Faizan | L1F24BSCS0485 |
+| Sharjeel | L1F24BSCS0506 |
+| Sufyan | L1F24BSCS0533 |
+| Moeez | L1F24BSCS0541 |
 
 ---
 
