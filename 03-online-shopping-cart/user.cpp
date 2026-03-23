@@ -3,8 +3,8 @@
 #include <iomanip> //For formatting
 #include <conio.h>//For _getch
 #include <ctime> // For date fetching
-#include <chrono> //For stopping programe
-#include <thread> //For stopping programe
+#include <chrono> //For stopping program
+#include <thread> //For stopping program
 using namespace std;
 
 
